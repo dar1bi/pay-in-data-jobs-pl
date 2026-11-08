@@ -1,0 +1,8 @@
+# The survey data must not be published
+data/
+*.csv
+*.xlsx
+*.zip
+
+.ipynb_checkpoints/
+.DS_Store
